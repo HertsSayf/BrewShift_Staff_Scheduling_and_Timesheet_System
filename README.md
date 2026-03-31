@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brew Shift Core Prototype
 This version of the project has been rebuilt into a simple working Flutter prototype using Firebase.
 
@@ -19,3 +20,7 @@ This version of the project has been rebuilt into a simple working Flutter proto
 3. Start an emulator or connected device.
 4. Run `flutter run`.
 5. Test login, register, clock in/out, timesheet display and rota creation.
+=======
+# BrewShift---Staff-Scheduling-and-Timesheet-System
+A repository for my Timesheet and Scheduling application built for Benjamin's Café Luton to improve efficiency and payroll errors
+>>>>>>> 9742bd652c6f0236cbdd4f554e3513f97a907a2a
